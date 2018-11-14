@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "465573C2-8C4A-40CA-A3B4-F8FE6E391AB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27788FE7-75C2-4B3C-B053-E63BA2C28BBE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "01D9DFE6-C65E-4FB5-96E6-1810F279FE08",
+    "height": 17,
+    "width": 51,
+    "x": 265,
+    "y": 474
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1c2a4d08b7a161a94efe27e1f91bcaa60e39bd8c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "footer logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FC9D987-0D9C-486A-82A3-95083E5AF6BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

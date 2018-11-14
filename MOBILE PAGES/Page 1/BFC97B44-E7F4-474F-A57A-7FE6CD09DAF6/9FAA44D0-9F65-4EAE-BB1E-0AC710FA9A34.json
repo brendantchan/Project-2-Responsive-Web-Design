@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9FAA44D0-9F65-4EAE-BB1E-0AC710FA9A34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40331832-17CB-430A-8F36-9DC259661D5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3DF02B8-A648-486E-B46C-90D5886FA7F3",
+    "height": 121,
+    "width": 161,
+    "x": 161,
+    "y": 315
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f9b4dabd3e948f841090a60ba4d67c6574a8ea79.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "photo 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F95D684B-EB64-4189-8FBC-A897DFA75664",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

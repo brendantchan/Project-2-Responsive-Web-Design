@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9B294AC6-3279-4562-85F0-A7E9F202BA3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "660D07D9-0DA4-4FB9-8363-4F5474896EEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CCA11546-4697-4C21-92F4-E75F104D6812",
+    "height": 120,
+    "width": 122,
+    "x": 160,
+    "y": 896
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/223687931cb075bbd1064962024ca1c05f8fd910.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "RED LOGO",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BA893E11-3719-4E17-B08A-92923BE18EDA",
+      "opacity": 0.07877604166666667
+    },
+    "do_objectID": "63428E64-BBDB-4FDE-B0F1-3772DC90D036",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CF2F4049-243C-47FD-A25F-7583ACE9369B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5A36C70-2381-40D2-A3D6-1D4F96CA361E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0D256DDB-12CA-424F-B55F-1F6C383FD2CD",
+    "height": 9,
+    "width": 9,
+    "x": 38,
+    "y": 479
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d604212def60dedc99608da4f34ee8b051755863.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "instagram logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C0F87F4-3047-4FD2-BC73-E09C0EE060B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

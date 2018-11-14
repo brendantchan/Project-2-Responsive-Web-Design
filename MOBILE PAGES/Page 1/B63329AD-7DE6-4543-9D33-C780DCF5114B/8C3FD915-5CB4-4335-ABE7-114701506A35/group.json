@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8C3FD915-5CB4-4335-ABE7-114701506A35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCE7F730-4B29-4F1E-8527-460DAF14628B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87704879-D478-49F8-9A4B-852BE74C38CF",
+    "height": 50,
+    "width": 320,
+    "x": 0,
+    "y": 536
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FACC0F65-6414-4CA0-86C5-90285B18311E"
+    },
+    {
+      "class": "bitmap",
+      "id": "11F7CDC5-4E4C-44E1-BCE7-098C8A878DF0"
+    },
+    {
+      "class": "bitmap",
+      "id": "09197B2C-5D1C-4746-A42E-8252A82ABD0E"
+    },
+    {
+      "class": "bitmap",
+      "id": "B3F69CF7-108A-48D7-8B50-F4D5059728D7"
+    },
+    {
+      "class": "bitmap",
+      "id": "DCF527BA-7370-4CAF-B886-3438BBC0A365"
+    },
+    {
+      "class": "bitmap",
+      "id": "EE017558-F105-466A-8DBF-37EDCB0FC81E"
+    },
+    {
+      "class": "bitmap",
+      "id": "26F5D8DB-B831-422A-A77C-9F3819E09ACE"
+    },
+    {
+      "class": "text",
+      "id": "657A6C9A-4802-4744-AFCB-255C830B4B6A"
+    },
+    {
+      "class": "text",
+      "id": "9A367943-51D2-484F-A378-1AAB311B40BA"
+    },
+    {
+      "class": "text",
+      "id": "7817E844-37BD-459A-AA35-40778A7BCD03"
+    },
+    {
+      "class": "text",
+      "id": "141C6A30-AA61-4151-8AD3-89746255914F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0920F4BA-BB9A-49D4-913B-E3FAFD29B7AE"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFAD65A9-EDBD-4AF6-9645-4F838F7F007C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
